@@ -37,12 +37,6 @@
     "footer": {
         "sections": [
             {
-                "type": "footer_text",
-                "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "Egg Head CEO\n"
-            },
-            {
                 "type": "footer_form",
                 "title": "Subscribe",
                 "content": "Stay up to date with our latest developments.",
