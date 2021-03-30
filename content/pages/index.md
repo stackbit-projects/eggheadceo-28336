@@ -22,7 +22,7 @@ sections:
         image_alt: App users welcoming a new member
         actions: []
       - title: The Last Squeeze of a Toothpaste Tube?
-        image: images/Toothpaste.png
+        image: images/square-cabbage.png
         image_alt: App user profile preview
         actions: []
   - section_id: call-to-action
