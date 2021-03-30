@@ -27,7 +27,7 @@ sections:
         actions: []
   - section_id: call-to-action
     type: section_cta
-    title: Share your thoughts
+    title: What do you think he looks like?
     actions:
       - label: Tweet It
         url: >-
