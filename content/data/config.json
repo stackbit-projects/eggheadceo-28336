@@ -2,7 +2,7 @@
     "title": "Shaved CEO",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "orange",
+    "palette": "green",
     "header": {
         "logo_img_alt": "Logo",
         "has_nav": false,
