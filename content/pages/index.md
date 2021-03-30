@@ -21,7 +21,7 @@ sections:
         image: images/NinjaTurtleFranck.png
         image_alt: App users welcoming a new member
         actions: []
-      - title: Cool Feature of Your Services
+      - title: The Last Squeeze
         image: images/feature3.png
         image_alt: App user profile preview
         actions: []
