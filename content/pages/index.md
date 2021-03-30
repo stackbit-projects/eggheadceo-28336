@@ -40,7 +40,8 @@ sections:
     title: Share your thoughts
     actions:
       - label: Tweet It
-        url: /signup
+        url: >-
+          https://twitter.com/intent/tweet?text=The%20%23eggheadceo%20looks%20like%3A%0A%0A%F0%9F%91%89
         style: primary
 seo:
   title: Stackbit Azimuth Theme
