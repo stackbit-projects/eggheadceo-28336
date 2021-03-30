@@ -8,10 +8,7 @@ sections:
     title: Tribute to an Egg Head CEO
     content: |
       He shaved his head, and now he looks like...
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
