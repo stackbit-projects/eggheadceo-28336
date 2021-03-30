@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/beforeafter.png
+    image: images/before-after.png
     image_alt: App preview
     title: Tribute to a Shaved CEO
     content: |
