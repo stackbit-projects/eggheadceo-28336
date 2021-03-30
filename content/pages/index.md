@@ -18,7 +18,7 @@ sections:
         image_alt: App preview on a phone and tablet
         actions: []
       - title: Leonardo?
-        image: images/feature2.png
+        image: images/NinjaTurtleFranck.png
         image_alt: App users welcoming a new member
         actions: []
       - title: Cool Feature of Your Services
