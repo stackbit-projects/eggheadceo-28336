@@ -13,9 +13,6 @@ sections:
     type: section_features
     background: gray
     title: An Egg?
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
