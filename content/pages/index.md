@@ -21,7 +21,7 @@ sections:
         image: images/NinjaTurtleFranck.png
         image_alt: App users welcoming a new member
         actions: []
-      - title: The Last Squeeze of a Toothpaste Tube
+      - title: The Last Squeeze of a Toothpaste Tube?
         image: images/Toothpaste.png
         image_alt: App user profile preview
         actions: []
