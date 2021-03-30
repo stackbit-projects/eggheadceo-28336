@@ -34,7 +34,7 @@ sections:
           https://twitter.com/intent/tweet?text=This%20CEO%20looks%20like%3A%0A%0A%F0%9F%91%89%0A%0Ahttps%3A//www.youtube.com/watch?v=dQw4w9WgXcQ
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
+  title: The Shaved CEO
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
