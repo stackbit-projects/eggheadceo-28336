@@ -14,7 +14,7 @@ sections:
     background: gray
     features:
       - title: An Egg?
-        image: images/feature1.png
+        image: images/eggFranckpng.png
         image_alt: App preview on a phone and tablet
         actions: []
       - title: Leonardo?
