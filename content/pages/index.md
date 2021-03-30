@@ -12,7 +12,6 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: An Egg?
     features:
       - title: An Egg?
         image: images/feature1.png
