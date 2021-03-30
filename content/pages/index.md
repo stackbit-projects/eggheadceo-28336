@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/beforeafter.png
     image_alt: App preview
-    title: Tribute to an Egg Head CEO
+    title: Tribute to Shaved CEO
     content: |
       He shaved his head, and now he looks like...
     actions: []
