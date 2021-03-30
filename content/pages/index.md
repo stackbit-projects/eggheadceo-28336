@@ -31,7 +31,7 @@ sections:
     actions:
       - label: Tweet It
         url: >-
-          https://twitter.com/intent/tweet?text=The%20%23eggheadceo%20looks%20like%3A%0A%0A%F0%9F%91%89
+          https://twitter.com/intent/tweet?text=This%20CEO%20looks%20like%3A%0A%0A%F0%9F%91%89%0A%0Ahttps%3A//www.youtube.com/watch?v=dQw4w9WgXcQ
         style: primary
 seo:
   title: Stackbit Azimuth Theme
