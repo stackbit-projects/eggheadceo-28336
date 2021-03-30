@@ -39,7 +39,7 @@ sections:
     type: section_cta
     title: Share your thoughts
     actions:
-      - label: Get Started
+      - label: Tweet It
         url: /signup
         style: primary
 seo:
