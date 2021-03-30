@@ -35,7 +35,7 @@ sections:
         style: primary
 seo:
   title: The Shaved CEO
-  description: The preview of the Azimuth theme
+  description: What does he look like?
   extra:
     - name: 'og:type'
       value: website
